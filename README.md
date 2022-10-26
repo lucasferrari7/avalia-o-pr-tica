@@ -1,2 +1,2 @@
-# avalia-o-pr-tica
+# avaliacaopratica
 Avaliação prática de Pensamento Computacional
